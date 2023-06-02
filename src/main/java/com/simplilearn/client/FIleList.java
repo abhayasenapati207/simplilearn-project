@@ -172,7 +172,7 @@ public class FIleList {
         }
     }
 
-    private static String searchFileInDirectory(String filename){
+    private static String searchFileInDirectory(String fileName){
         // Get the current directory
         File currentDirectory = new File(ROOT_DIRECTORY);
 
