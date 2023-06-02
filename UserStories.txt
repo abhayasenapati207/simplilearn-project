@@ -1,0 +1,18 @@
+User  Stories :
+
+1. As a user , I want to see all file names in ascending order so I can easily find the file
+ I'm Looking for.
+2. As a user , will have options to  add, delete and close application  ( inhance )
+
+3. As a user, I want to create a file and persist so that I can retrieve them later as part of out application.
+
+4 As a user, I want to search for the specific file in the directory so that i can access the data in the file.
+
+5. As a user. when I select the close option application needs to be closed with some good message .
+
+6. As a user. I want to delete a specific file so that I can remove it from the application
+
+7.As a user I should be able to see a welcome screen with details of the application and the developer.
+
+8. As a user, I will able to navigate the main context and chose available options to perform.
+

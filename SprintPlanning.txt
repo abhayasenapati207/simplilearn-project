@@ -1,0 +1,19 @@
+Sprint 1
+
+1. set up Git and Github account.
+2. We should give welcome Screen having Application , Developer Details  , file management Options.
+
+Sprint 2
+1. Implement the feature to add file
+2. Implement the feature to delete file
+3. Implement the feature for list file
+
+Sprint 3
+1. Implement feature search file
+2. Add the feature to close application
+3. Add the feature to return to the main application
+3. Test entire application
+
+Sprint 4
+1. Document the application
+
